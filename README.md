@@ -15,7 +15,7 @@ A purely hand-coded CSS Pikachu character created using only HTML and CSS - no i
 
 ##  Demo
 
-[**View Live Demo**](https://your-demo-link.com) 
+[**View Live Demo**](https://codeachar.vercel.app/) 
 
 Or simply open `index.html` in your browser!
 
@@ -37,7 +37,7 @@ Or simply open `index.html` in your browser!
 
 That's it! No build process, no dependencies, just pure CSS magic.
 
-## 🎯 Technical Details
+## Technical Details
 
 ### What's Used
 - **HTML Elements**: Only `<div>` and `<span>` tags
