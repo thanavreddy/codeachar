@@ -2,12 +2,12 @@
 
 A purely hand-coded CSS Pikachu character created using only HTML and CSS - no images, SVGs, or external assets required!
 
-![CSS Pikachu Preview](preview.png)
+![image](https://github.com/user-attachments/assets/e32f7bb5-ff78-4a33-a7e7-645d1bf515ef)
+
 
 ##  Features
 
 - **100% Pure CSS Art** - Created using only HTML `div` elements and CSS properties
-- **3D Realistic Design** - Advanced gradients, shadows, and lighting effects for dimensional appearance
 - **Smooth Animations** - Breathing animation, electric glow effects, and subtle movements
 - **No Dependencies** - Works in any modern browser without external libraries
 - **Responsive Design** - Scales beautifully across different screen sizes
